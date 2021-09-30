@@ -1,5 +1,6 @@
 # Git-Learning Version Control Cheatsheet Day-1
-This repository contains the cheat sheet for the Day 1 session of Git-Learning Version Control. Fork it and you are good to go 💻 !
+HI I FORKED IT !!!!!!!!!!!! HEHE.
+This repository contains the cheat sheet for the Day 1 session of Git-Learning Version Control. Fork it and you are good to go 💻 ! 
 
 
 # What is version control?
